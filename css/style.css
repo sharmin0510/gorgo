@@ -1,0 +1,243 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+   	font-family: 'Poppins', sans-serif;
+   	font-size: 14px;
+   	line-height: 24px;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Poppins', sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+/* global css code goes here */
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+.row{
+	width: 100%;
+	float: left;
+}
+.col-lg-3{
+	width: 25%;
+	float: left;
+}
+.col-lg-4{
+	width: 33.33%;
+	float: left;
+}
+
+.col-lg-6{
+	width: 50%;
+	float: left;
+}
+.col-lg-12{
+	width: 100%;
+	float: left;
+}
+
+/* header code start */
+.header{
+	width: 100%;
+	float: left;
+	padding: 20px 0px;
+}
+.header .logo{
+	width:80%
+}
+
+.header .navbar{
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.header .navbar li{
+	list-style: none;
+	display: inline-block;
+}
+.header .navbar li a{
+	display: block;
+	font-size: 14px;
+	text-transform: capitalize;
+	color: #777;
+	font-weight: 600;
+	margin: 15px 0px 0px 15px;
+}
+.header .btn{
+	width: 100%;
+	float: right;
+	text-align: right;
+}
+.header .btn .color{
+	background: #FF6162;
+	color: white;
+	padding: 15px 15px;
+	font-size: 18px;
+	border-radius: 5px;
+	border: none;
+}
+	
+.minimal-section{
+	width: 100%;
+	float: left;
+	padding: 50px 0px 0px 0px;
+}
+.minimal{
+	width: 100%;
+	float: left;
+	padding: 70px 0px 0px 0px;
+}
+.minimal h1{
+	font-size: 56px;
+	line-height: 66px;
+	font-weight: 700;
+	margin: 0px 0px 0px 15px;
+}
+.minimal p{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 400;
+	margin: 20px 0px 0px 0px;
+}
+.logo{
+	width: 80%;	
+
+}
+.stunning-section{
+	width: 100%;
+	float: left;
+	padding: 380px 0px 0px 0px;
+}
+.stunning1{
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.stunning1 h2{
+	font-size: 24px;
+	line-height: 34px;
+	font-weight: 700;
+}
+.stunning p{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 400;
+	margin: 20px 0px 0px 0px;
+}
+.image{
+	width: 100%;
+	float: left;
+	padding: 30px 0px 0px 0px;
+}
+.image .img1{
+	width: 100%;
+	margin: 0px 50px;
+}
+.image .img2{
+	width: 100%;
+	margin: 0px 50px;
+}
+.image .img3{
+	width: 100%;
+	margin: 0px 50px;
+}
+.image .img4{
+	width: 100%;
+	margin: 0px 50px;
+}
+.image p{
+	font-size: 14px;
+	font-weight: 400;
+	text-align: center;
+}
+.feature-section{
+	width: 100%;
+	float: left;
+	text-align: center;
+	padding: 380px 0px 0px 0px;
+}
+.feature-section p{
+	padding: 10px 0px 0px 0px;
+	color: gray;
+}
+.icon-section1{
+	width: 100%;
+	float: left;
+	padding: 40px 0px;
+}
+.icon1{
+	width: 80%;
+	float: left;
+	background: #F5F5F5;
+	padding: 40px 20px;
+	margin: 0px 10px;
+	text-align: center;
+}
+.icon1 .cart{
+	width: 20%;
+	height: 50px;
+
+}
+.icon1 h2{
+	font-size: 18px;
+	line-height: 28px;
+	font-weight: 700;
+	color: black;
+	text-align: center;
+	margin: 10px 0px;
+}
+.icon1 p{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 400;
+	margin: 20px 0px 0px 0px;
+}
+
+.cl1{
+	background: white;
+	border-radius: 100%;
+}
+.footer{
+	width: 100%;
+	float: left;
+	text-align: center;
+	padding: 180px 0px;
+	margin: 100px 0px;
+	background: #302D46;
+}
+.footer	.foot{
+	width: 100%;
+	float: left;
+}
+.footer	h2{
+	font-size: 42px;
+	line-height: 52px;
+	font-weight: 600;
+	color: #F0F0F0;
+}
+.footer .pur{
+	width: 100%;
+	float: left;
+	padding: 50px 0px;
+}
+.footer .pur .pur1{
+	background: #FF6162;
+	color: white;
+	padding: 15px 15px;
+	font-size: 18px;
+	border-radius: 5px;
+}
+.footer .img .fimg{
+	padding: 20px 0px;
+}
+
+
+
+
+
+
+
